@@ -2,17 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yuang&#39;s Blog</title>
-    <link>https://aaaianpundar.github.io/</link>
+    <link>https://ianpundar.github.io/</link>
     <description>Recent content on Yuang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 Mar 2022 09:59:06 +0800</lastBuildDate><atom:link href="https://aaaianpundar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Mar 2022 09:59:06 +0800</lastBuildDate><atom:link href="https://ianpundar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
-      <link>https://aaaianpundar.github.io/posts/cnn/</link>
+      <title>CNN</title>
+      <link>https://ianpundar.github.io/posts/cnn-copy-2/</link>
       <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
       
-      <guid>https://aaaianpundar.github.io/posts/cnn/</guid>
-      <description>Desc Text.</description>
+      <guid>https://ianpundar.github.io/posts/cnn-copy-2/</guid>
+      <description>Introduction to CNN</description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://ianpundar.github.io/posts/cnn-copy-3/</link>
+      <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
+      
+      <guid>https://ianpundar.github.io/posts/cnn-copy-3/</guid>
+      <description>Introduction to CNN</description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://ianpundar.github.io/posts/cnn-copy-4/</link>
+      <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
+      
+      <guid>https://ianpundar.github.io/posts/cnn-copy-4/</guid>
+      <description>Introduction to CNN</description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://ianpundar.github.io/posts/cnn-copy-5/</link>
+      <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
+      
+      <guid>https://ianpundar.github.io/posts/cnn-copy-5/</guid>
+      <description>Introduction to CNN</description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://ianpundar.github.io/posts/cnn-copy/</link>
+      <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
+      
+      <guid>https://ianpundar.github.io/posts/cnn-copy/</guid>
+      <description>Introduction to CNN</description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://ianpundar.github.io/posts/cnn/</link>
+      <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
+      
+      <guid>https://ianpundar.github.io/posts/cnn/</guid>
+      <description>Introduction to CNN</description>
+    </item>
+    
+    <item>
+      <title>ArchiveA</title>
+      <link>https://ianpundar.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianpundar.github.io/archives/</guid>
+      <description>archivesC</description>
+    </item>
+    
+    <item>
+      <title>Search in</title>
+      <link>https://ianpundar.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianpundar.github.io/search/</guid>
+      <description>search</description>
     </item>
     
   </channel>

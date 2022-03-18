@@ -2,16 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Yuang&#39;s Blog</title>
-    <link>https://aaaianpundar.github.io/tags/</link>
+    <link>https://ianpundar.github.io/tags/</link>
     <description>Recent content in Tags on Yuang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 Mar 2022 09:59:06 +0800</lastBuildDate><atom:link href="https://aaaianpundar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Mar 2022 09:59:06 +0800</lastBuildDate><atom:link href="https://ianpundar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>https://aaaianpundar.github.io/tags/first/</link>
+      <title>Deep Learning</title>
+      <link>https://ianpundar.github.io/tags/deep-learning/</link>
       <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
       
-      <guid>https://aaaianpundar.github.io/tags/first/</guid>
+      <guid>https://ianpundar.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
